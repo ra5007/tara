@@ -1,0 +1,6 @@
+1.Basically doctype will tell the browser use the this html version to render this page
+ in the specified strict mode or standard mode(will render the code with the current specification)
+ if you don't type the doctype the browser will render the page in quirk mode(which is a old mode with out standadization)
+
+2.Meta tags provide the metadata about the html document.
+ meta data willnot be displayed on the page.but it is mechine parsable
